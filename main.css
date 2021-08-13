@@ -1,0 +1,25 @@
+body {
+    max-width: 1200px;
+    margin: 0 auto;
+    font-family: 'Georama', sans-serif;
+}
+#title {
+    text-align: center;
+}
+img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+}
+#img-div {
+    text-align: center;
+    padding-bottom: 20px;
+}
+#img-caption {
+    font-size: small;
+    color: #777;
+}
+li {
+    padding: 5px 0;
+}
